@@ -5,3 +5,4 @@ This is collection of Cognitive Services links that I can't find in one place an
 * [AI demos](https://aidemos.microsoft.com/)
 * [Intelligent Kiosk](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 * [Swagger/OpenApi](https://github.com/Azure/azure-rest-api-specs/tree/master/specification/cognitiveservices)
+* [REST SDK reference docs](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/)
